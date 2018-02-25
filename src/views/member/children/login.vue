@@ -142,6 +142,7 @@
   }
 </script>
 <style lang="scss" scoped>
+
   .m-login{
     text-align: center; width: 80%; margin: 0 auto; position: relative; min-height: 100%;
     a{ color:#4fc68c;}
