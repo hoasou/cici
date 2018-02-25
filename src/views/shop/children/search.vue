@@ -62,9 +62,9 @@
 </script>
 <style lang="scss" scoped>
   .search-box{
-    position: relative; width: 80%; height: 0.8rem; margin: 0.3rem auto 0; background: #eee; border-radius: 0.1rem; padding: 0 0.2rem;box-shadow: 0 0.04rem 0.1rem #c7bebe inset; overflow: hidden;
+    position: relative; width: 80%; height: 0.8rem; margin: 0.3rem auto 0; background: #eee; border-radius: 0.1rem; padding: 0 0.2rem;box-shadow: 0 0.03rem 0.06rem #d4d0d0 inset; overflow: hidden;
     input{ border: 0; width: 100%; height: 100%; display: block; background: none;}
-    .btn{ position: absolute; right: 0; top: 0; width: 1rem; height: 100%; background: url(../../../assets/images/search.png) center no-repeat; background-size: 0.33rem 0.33rem; border-radius: 0 0.1rem 0.1rem 0; background-color: #757474; border-left: 1px solid #dcd9d9; }
+    .btn{ position: absolute; right: 0; top: 0; width: 1rem; height: 100%; background: url(../../../assets/images/search.png) center no-repeat; background-size: 0.33rem 0.33rem; border-radius: 0 0.1rem 0.1rem 0; /* background-color: #757474; border-left: 1px solid #dcd9d9; */ }
   }
   .no-information{text-align: center; color: #999; margin: 0.5rem 0;}
   .m-servicelist{

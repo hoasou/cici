@@ -2,7 +2,7 @@
   <div>
     <Navigator title="作业" left="/member/setup" leftTitle="消息"></Navigator>
     <bottom-nav :show="true"></bottom-nav>
-    <center>works</center>
+    <p style="text-align:center; margin:100px 0;color:#999;">您暂无作业哦~</p>
   </div>
 </template>
 <script>
